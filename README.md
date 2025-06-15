@@ -65,7 +65,7 @@ The top 5 most influential features:
 
 ### 📦 Option A: Run Locally via JupyterLab (Recommended)
 
-### 1. Clone the repository:
+ 1. Clone the repository:
 ```bash
 git clone https://github.com/saadsanadi-ds/SalesForecasting-Project.git
 cd SalesForecasting-Project
