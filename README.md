@@ -61,9 +61,35 @@ The top 5 most influential features:
 
 ---
 
-## 🧪 How to Run
+## 🚀 How to Run the Project
 
-### 1. Clone the repo
+### 📦 Option A: Run Locally via JupyterLab (Recommended)
+
+### 1. Clone the repository:
 ```bash
 git clone https://github.com/saadsanadi-ds/SalesForecasting-Project.git
 cd SalesForecasting-Project
+
+### 2. Open the notebook:
+- Launch JupyterLab
+- Go to: `notebook/sales_forecasting.ipynb`
+
+### 3. Run all cells:
+- The notebook will guide you through data cleaning, model building, and evaluation.
+
+---
+
+## 📁 Project Structure
+
+SalesForecasting-Project/
+├── notebook/
+│   └── sales_forecasting.ipynb       ← Main notebook
+├── model/
+│   └── random_forest_sales_model.joblib  ← Saved model
+├── README.md                         ← You’re reading this
+
+---
+
+## ✅ Requirements
+
+If you're running locally, install required Python libraries:
