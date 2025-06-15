@@ -1,4 +1,4 @@
-# 🛒 Sales Forecasting with Machine Learning (Walmart Dataset)
+# 📈 Sales Forecasting with Machine Learning (Walmart Dataset)
 
 ## 📌 Overview
 
@@ -65,10 +65,10 @@ The top 5 most influential features:
 
 ### 📦 Option A: Run Locally via JupyterLab (Recommended)
 
- 1. Clone the repository:
-```bash
+### 1. Clone the repository:
 git clone https://github.com/saadsanadi-ds/SalesForecasting-Project.git
-cd SalesForecasting-Project
+
+ cd SalesForecasting-Project
 
 ### 2. Open the notebook:
 - Launch JupyterLab
@@ -80,16 +80,16 @@ cd SalesForecasting-Project
 ---
 
 ## 📁 Project Structure
-
-SalesForecasting-Project/
+<pre> SalesForecasting-Project/
 ├── notebook/
 │   └── sales_forecasting.ipynb       ← Main notebook
 ├── model/
 │   └── random_forest_sales_model.joblib  ← Saved model
-├── README.md                         ← You’re reading this
+├── README.md                         ← You’re reading this  </pre>
 
----
 
 ## ✅ Requirements
 
-If you're running locally, install required Python libraries:
+- Python 3.x
+- JupyterLab
+- Libraries: pandas, numpy, scikit-learn, matplotlib, seaborn, joblibib
