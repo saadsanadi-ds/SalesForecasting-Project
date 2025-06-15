@@ -65,5 +65,5 @@ The top 5 most influential features:
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/your-username/SalesForecasting-Project.git
+git clone https://github.com/saadsanadi-ds/SalesForecasting-Project.git
 cd SalesForecasting-Project
